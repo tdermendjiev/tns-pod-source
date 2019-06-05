@@ -1,0 +1,4 @@
+module AFClass {
+    header "AFClass.h"
+    export *
+}
